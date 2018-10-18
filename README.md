@@ -1,3 +1,3 @@
-# Projeto Final MO444 - Prediçao de arquivos de vírus
+# Projeto Final MO444 - Predict Malwares Files
 
-Para mais informações ler o artigo em pdf do repositório.
+For mor informatiom please read the article "FinalAssignment.pdf".
